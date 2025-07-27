@@ -1,4 +1,4 @@
-# SkyDrop-Global---Last-mile-delivery-network# SkyDrop-Global---Last-mile-delivery-network# SkyDrop-Global---Last-mile-delivery-network
+# SkyDrop-Global---Last-mile-delivery-network
 Build the world's first trillion-dollar autonomous drone delivery network, revolutionizing last-mile logistics globally.
 
 # SkyDrop Global: 10-Year Master Plan to $1 Trillion Valuation
